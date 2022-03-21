@@ -3,8 +3,11 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - matplotlib=3.2.2
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
   - pandas
-  - ipywidgets
-  - traitlets
-  - bqplot=0.12.30
+  - partd
+  - bokeh
+  - dask
