@@ -14,5 +14,4 @@ dependencies:
   - seaborn
   - plotly
   - ipywidgets
-  - wordcloud
-  - sklearn
+  - WordCloud
