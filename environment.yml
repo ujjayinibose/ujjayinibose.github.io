@@ -11,3 +11,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - seaborn
+  - plotly
+  - ipywidgets
+  - wordcloud
+  - sklearn
