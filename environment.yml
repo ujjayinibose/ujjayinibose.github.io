@@ -15,4 +15,4 @@ dependencies:
   - plotly
   - ipywidgets
   - WordCloud
-  - sklearn
+  - scikit-learn
